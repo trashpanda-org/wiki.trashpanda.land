@@ -14,7 +14,7 @@ coverY: 146.15101289134438
 
 ## Browse
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4><i class="fa-book-blank">:book-blank:</i></h4></td><td><strong>Requires Literacy &#x26; Comprehension Skills</strong></td><td>Read all of our community guides here</td><td><a href="https://app.gitbook.com/o/Nhr4jPKDl6T7COhEkFfR/s/909EFXMZKIgW9h8StODF/">Community Guides</a></td><td><a href=".gitbook/assets/racoon-5.png">racoon-5.png</a></td></tr><tr><td><h4><i class="fa-locust">:locust:</i></h4></td><td><strong>We are Not Locust, or Maybe We are</strong></td><td>Check out our members' spaces. <em>*crickets*</em></td><td><a href="https://app.gitbook.com/o/Nhr4jPKDl6T7COhEkFfR/s/2GLul6jrsVTnj3ByxLyC/">Hasasssssnosas</a></td><td><a href=".gitbook/assets/racoon-4.png">racoon-4.png</a></td></tr><tr><td><h4><i class="fa-banana">:banana:</i></h4></td><td><strong>The Cleaning Man Wasn’t Thrilled about Us</strong></td><td>Browse the <del>trashcan.</del>  We definitively didn't hide food here</td><td><a href="https://template.gitbook.com/space-api-reference">https://template.gitbook.com/space-api-reference</a></td><td><a href=".gitbook/assets/racoon-6.png">racoon-6.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4><i class="fa-book-blank">:book-blank:</i></h4></td><td><strong>Requires Literacy &#x26; Comprehension Skills</strong></td><td>Read all of our community guides here</td><td><a href="https://app.gitbook.com/o/Nhr4jPKDl6T7COhEkFfR/s/909EFXMZKIgW9h8StODF/">Community Guides</a></td><td><a href=".gitbook/assets/read.jpg">read.jpg</a></td></tr><tr><td><h4><i class="fa-locust">:locust:</i></h4></td><td><strong>We are Not Locust, or Maybe We are</strong></td><td>Check out our members' spaces. <em>*crickets*</em></td><td><a href="https://app.gitbook.com/o/Nhr4jPKDl6T7COhEkFfR/s/2GLul6jrsVTnj3ByxLyC/">What is Playground</a></td><td><a href=".gitbook/assets/friends.png">friends.png</a></td></tr><tr><td><h4><i class="fa-banana">:banana:</i></h4></td><td><strong>The Cleaning Man Wasn’t Thrilled about Us</strong></td><td>Browse the <del>trashcan.</del>  We definitively didn't hide food here</td><td><a href="./#a-local-model-enthusiast-get-started-in-5-minutes">#a-local-model-enthusiast-get-started-in-5-minutes</a></td><td><a href=".gitbook/assets/caught.png">caught.png</a></td></tr></tbody></table>
 
 ***
 
@@ -28,7 +28,7 @@ Want to run models locally? Try out our models.
 {% endcolumn %}
 
 {% column width="50%" valign="middle" %}
-<figure><img src=".gitbook/assets/racoon-7.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/racoon-7.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
